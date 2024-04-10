@@ -38,7 +38,13 @@ namespace malka_Project
             BirthDate = Console.ReadLine();
             Console.WriteLine("Enter your FamilyStatus: ");
             FamilyStatus = Console.ReadLine();
-            return
+            return ("The Student details: " + 
+                    $"{Environment.NewLine}" +
+                    $"First Name: " {Name} {Environment.NewLine} +
+                    $"Last Name: " {LastName} {Environment.NewLine} +
+                    $"UserId : " {UserId} {Environment.NewLine} +
+                    $"BirthDate: " {BirthDate} {Environment.NewLine} +
+                    $"Family status: " {familyStatus});
 
 
              }

@@ -7,13 +7,15 @@
             Console.WriteLine("Welcome to cyber collage.");
             Console.WriteLine("what can i do for you?");
             Console.WriteLine();
-            AppConsole GetUserPick();
+            AppConsole ReturnPick = new AppConsole();
+            ReturnPick.GetUserPick();
 
 
                 switch (pick)
             {
                 case 1:
-                    datausers = Student.GetUserInput();
+                    Student MyData = new Student();
+                    MyData.GetUserInput();
                     break;
                 
             }
