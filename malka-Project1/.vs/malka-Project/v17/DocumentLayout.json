@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\code\\malka-Project\\",
+  "WorkspaceRootPath": "C:\\code\\malka-project\\malka-Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46AB8798-9551-42A9-87A0-8BF4D6B9C114}|malka-Project.csproj|c:\\code\\malka-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46AB8798-9551-42A9-87A0-8BF4D6B9C114}|malka-Project.csproj|c:\\code\\malka-project\\malka-project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46AB8798-9551-42A9-87A0-8BF4D6B9C114}|malka-Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AB8798-9551-42A9-87A0-8BF4D6B9C114}|malka-Project.csproj|c:\\code\\malka-project\\malka-project1\\appconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AB8798-9551-42A9-87A0-8BF4D6B9C114}|malka-Project.csproj|solutionrelative:appconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AB8798-9551-42A9-87A0-8BF4D6B9C114}|malka-Project.csproj|c:\\code\\malka-project\\malka-project1\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AB8798-9551-42A9-87A0-8BF4D6B9C114}|malka-Project.csproj|solutionrelative:students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AB8798-9551-42A9-87A0-8BF4D6B9C114}|malka-Project.csproj|c:\\code\\malka-project\\malka-project1\\students_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AB8798-9551-42A9-87A0-8BF4D6B9C114}|malka-Project.csproj|solutionrelative:students_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +32,52 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\code\\malka-Project\\Program.cs",
+              "DocumentMoniker": "C:\\code\\malka-project\\malka-Project1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\code\\malka-Project\\Program.cs",
+              "ToolTip": "C:\\code\\malka-project\\malka-Project1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T13:12:00.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "students_data.cs",
+              "DocumentMoniker": "C:\\code\\malka-project\\malka-Project1\\students_data.cs",
+              "RelativeDocumentMoniker": "students_data.cs",
+              "ToolTip": "C:\\code\\malka-project\\malka-Project1\\students_data.cs",
+              "RelativeToolTip": "students_data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:39:14.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\code\\malka-project\\malka-Project1\\Students.cs",
+              "RelativeDocumentMoniker": "Students.cs",
+              "ToolTip": "C:\\code\\malka-project\\malka-Project1\\Students.cs",
+              "RelativeToolTip": "Students.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:17:16.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppConsole.cs",
+              "DocumentMoniker": "C:\\code\\malka-project\\malka-Project1\\AppConsole.cs",
+              "RelativeDocumentMoniker": "AppConsole.cs",
+              "ToolTip": "C:\\code\\malka-project\\malka-Project1\\AppConsole.cs",
+              "RelativeToolTip": "AppConsole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:26:01.681Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,5 @@
+C:\code\malka-project\malka-Project1\obj\Debug\net8.0\malka-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\malka-project\malka-Project1\obj\Debug\net8.0\malka-Project.AssemblyInfoInputs.cache
+C:\code\malka-project\malka-Project1\obj\Debug\net8.0\malka-Project.AssemblyInfo.cs
+C:\code\malka-project\malka-Project1\obj\Debug\net8.0\malka-Project.csproj.CoreCompileInputs.cache
+C:\code\malka-project\malka-Project1\obj\Debug\net8.0\malka-Project.sourcelink.json
